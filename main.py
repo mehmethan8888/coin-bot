@@ -1,1 +1,1 @@
-print("Bot is starting...")
+'print("Bot is starting...")'
