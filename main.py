@@ -1,3 +1,5 @@
+import time
+
 print("Bot is starting...")
 
 if __name__ == "__main__":
